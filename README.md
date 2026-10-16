@@ -22,7 +22,3 @@ docker compose up --build
 
 - Frontend: http://localhost:5173
 - API docs: http://localhost:8000/docs
-
-## License
-
-MIT
